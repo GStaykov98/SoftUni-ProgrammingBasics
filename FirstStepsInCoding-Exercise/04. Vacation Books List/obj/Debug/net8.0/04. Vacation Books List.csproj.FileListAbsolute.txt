@@ -1,0 +1,14 @@
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.exe
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.deps.json
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.runtimeconfig.json
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.dll
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\bin\Debug\net8.0\04. Vacation Books List.pdb
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.AssemblyInfo.cs
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.dll
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\refint\04. Vacation Books List.dll
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.pdb
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\04. Vacation Books List.genruntimeconfig.cache
+C:\Coding\ProgrammingBasics\FirstStepsInCoding\Lab\FirstStepsInCoding-Exercise\04. Vacation Books List\obj\Debug\net8.0\ref\04. Vacation Books List.dll
