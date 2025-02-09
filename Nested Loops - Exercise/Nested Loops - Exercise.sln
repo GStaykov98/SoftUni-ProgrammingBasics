@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Number Pyramid", "01. Number Pyramid\01. Number Pyramid.csproj", "{11C368DE-C482-4300-A8F2-6D021560E24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Equal Sums Even Odd Position", "02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position.csproj", "{BFB7BB96-D994-4085-B08D-36887A4B0741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum Prime Non Prime", "03. Sum Prime Non Prime\03. Sum Prime Non Prime.csproj", "{9A5CDA9C-998F-412E-B5A0-2E9DC859E87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C368DE-C482-4300-A8F2-6D021560E24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C368DE-C482-4300-A8F2-6D021560E24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C368DE-C482-4300-A8F2-6D021560E24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C368DE-C482-4300-A8F2-6D021560E24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB7BB96-D994-4085-B08D-36887A4B0741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB7BB96-D994-4085-B08D-36887A4B0741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB7BB96-D994-4085-B08D-36887A4B0741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB7BB96-D994-4085-B08D-36887A4B0741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5CDA9C-998F-412E-B5A0-2E9DC859E87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5CDA9C-998F-412E-B5A0-2E9DC859E87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5CDA9C-998F-412E-B5A0-2E9DC859E87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5CDA9C-998F-412E-B5A0-2E9DC859E87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55C1593B-3B56-4DBB-8D32-7311E5D39B2F}
+	EndGlobalSection
+EndGlobal
